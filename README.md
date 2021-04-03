@@ -5,4 +5,6 @@ Pada file ini, kalian perlu mendownload file .ova yang disediakan oleh tim Sekol
 
 ## Usage
 
-Anda cukup menginstalkan Oracle VM VirtualBox pada PC/Laptop Anda. Langkah instalasi Oracle VM VirtualBox dapat diikuti pada link berikut [Oracle VM VirtualBox Download Page](https://www.virtualbox.org/wiki/Downloads)
+* Clone repository ini ke local pc Anda.
+* Anda cukup menginstalkan Oracle VM VirtualBox pada PC/Laptop Anda. Langkah instalasi Oracle VM VirtualBox dapat diikuti pada link berikut [Oracle VM VirtualBox Download Page](https://www.virtualbox.org/wiki/Downloads) .
+* 
